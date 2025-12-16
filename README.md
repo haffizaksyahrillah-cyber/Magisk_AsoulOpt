@@ -261,6 +261,9 @@ com.tencent.tmgp.sgame
 com.tencent.tmgp.speedmobile
 com.tencent.tmgp.sskgame
 com.tencent.tmgp.supercell.boombeach
+com.levelinfinite.sgameGlobal
+com.netease.dfjssea
+com.dts.freefiremax
 com.tencent.tmgp.wuxia
 com.tencent.tmgp.yys.zqb
 com.tencent.toaa
