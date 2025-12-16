@@ -289,6 +289,8 @@ com.zlongame.mhmnz
 com.ztgame.bob
 com.ztgame.yyzy
 com.zy.wqmt.cn
+com.com.levelinfinite.sgameGlobal
+com.dts.freefiremax
 gplay.punishing.grayraven
 jp.co.bandainamcoent.BNEI0242
 jp.co.craftegg.band
